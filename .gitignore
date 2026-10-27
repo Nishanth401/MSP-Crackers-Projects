@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+frontend/dist/
+backend/target/
+target/
+
+# Logs & temp files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+catalog/raw_rows.txt
+catalog/page_*_raw.txt
+
+# Environment
+.env
+.env.local
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Junction / Mirror
+msp-pyro-park/

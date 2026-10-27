@@ -1,0 +1,132 @@
+code,name,category,page,status,listPrice,netPrice,discrepancy_or_flag
+1,Gold Lakshmi,single-sound-crackers,2,VERIFIED,275.0,27.5,Confirmed match with PDF line coordinates
+2,"2 3/4"" Kuruvi",single-sound-crackers,2,VERIFIED,80.0,8.0,Confirmed match with PDF line coordinates
+3,"3 1/2"" Lakshmi",single-sound-crackers,2,VERIFIED,170.0,17.0,Confirmed match with PDF line coordinates
+4,"4"" Lakshmi",single-sound-crackers,2,VERIFIED,225.0,22.5,Confirmed match with PDF line coordinates
+5,Paper Bomb (1/4 Kg),single-sound-crackers,2,VERIFIED,500.0,50.0,Confirmed match with PDF line coordinates
+6,Paper Bomb (1/2 Kg),single-sound-crackers,2,VERIFIED,1000.0,100.0,Confirmed match with PDF line coordinates
+7,Paper Bomb (1 Kg),single-sound-crackers,2,VERIFIED,2000.0,200.0,Confirmed match with PDF line coordinates
+8,G.Chakkers Big 10s,ground-chakkers,2,VERIFIED,450.0,45.0,Confirmed match with PDF line coordinates
+9,G.Chakkers Special,ground-chakkers,2,VERIFIED,1000.0,100.0,Confirmed match with PDF line coordinates
+10,G.Chakkers Deluxe,ground-chakkers,2,VERIFIED,1800.0,180.0,Confirmed match with PDF line coordinates
+11,Flower Pots Big,flower-pots,2,VERIFIED,650.0,65.0,Confirmed match with PDF line coordinates
+12,Flower Pots Special,flower-pots,2,VERIFIED,850.0,85.0,Confirmed match with PDF line coordinates
+13,Flower Pots Asoka,flower-pots,2,VERIFIED,1100.0,110.0,Confirmed match with PDF line coordinates
+14,Flower Pots Giant,flower-pots,2,VERIFIED,1400.0,140.0,Confirmed match with PDF line coordinates
+15,Flower Pots Koti,flower-pots,2,VERIFIED,1950.0,195.0,Confirmed match with PDF line coordinates
+16,Flower Pots Deluxe (5 Pcs),flower-pots,2,VERIFIED,1700.0,170.0,Confirmed match with PDF line coordinates
+17,Flower Pots Super Dlx.(2 Pcs),flower-pots,2,VERIFIED,1500.0,150.0,Confirmed match with PDF line coordinates
+18,Hydro Green,bombs,2,VERIFIED,850.0,85.0,Confirmed match with PDF line coordinates
+19,Military Bomb,bombs,2,VERIFIED,900.0,90.0,Confirmed match with PDF line coordinates
+20,King of King Green,bombs,2,VERIFIED,1400.0,140.0,Confirmed match with PDF line coordinates
+21,A.K.47,bombs,2,VERIFIED,1800.0,180.0,Confirmed match with PDF line coordinates
+22,Classic Bomb,bombs,2,VERIFIED,1000.0,100.0,Confirmed match with PDF line coordinates
+23,Bijili Red (100 Pcs),crackers,2,VERIFIED,300.0,30.0,Confirmed match with PDF line coordinates
+24,Bijili Red (50 Pcs),crackers,2,VERIFIED,150.0,15.0,Confirmed match with PDF line coordinates
+25,100 K,crackers,2,VERIFIED,400.0,40.0,Confirmed match with PDF line coordinates
+26,100 Deluxe,crackers,2,NEEDS_VERIFICATION,,,Price blank in source PDF page 2
+27,28 Gaint,crackers,2,NEEDS_VERIFICATION,,,Price blank in source PDF page 2
+28,56 Gaint,crackers,2,NEEDS_VERIFICATION,,,Price blank in source PDF page 2
+29,Rocket Big (5 Pcs),rockets,2,VERIFIED,1800.0,180.0,Confirmed match with PDF line coordinates
+30,1 1/2' Twinkling Star,torches,2,VERIFIED,350.0,35.0,Confirmed match with PDF line coordinates
+31,4' Twinkling Star,torches,2,VERIFIED,700.0,70.0,Confirmed match with PDF line coordinates
+32,Lion 1K,crackers,3,VERIFIED,1350.0,135.0,Confirmed match with PDF line coordinates
+33,Lion 1K Special,crackers,3,VERIFIED,2000.0,200.0,Confirmed match with PDF line coordinates
+34,Lion 2K (Small),crackers,3,NEEDS_VERIFICATION,,,Price blank in source PDF page 3
+35,Lion 2K,crackers,3,VERIFIED,4000.0,400.0,Confirmed match with PDF line coordinates
+36,Lion 5 K Small,crackers,3,NEEDS_VERIFICATION,,,Price blank in source PDF page 3
+37,Lion 5 K,crackers,3,VERIFIED,10000.0,1000.0,Confirmed match with PDF line coordinates
+38,Lion 10 K Small,crackers,3,NEEDS_VERIFICATION,,,Price blank in source PDF page 3
+39,Lion 10 K,crackers,3,VERIFIED,20000.0,2000.0,Confirmed match with PDF line coordinates
+40,Kit Kat (10 Pcs),novelties,3,VERIFIED,380.0,38.0,Confirmed match with PDF line coordinates
+41,Leaf,novelties,3,VERIFIED,1500.0,150.0,Confirmed match with PDF line coordinates
+42,Polo,novelties,3,VERIFIED,1300.0,130.0,Confirmed match with PDF line coordinates
+43,Parrot,novelties,3,VERIFIED,1300.0,130.0,Confirmed match with PDF line coordinates
+44,White Money (5 Pcs),novelties,3,VERIFIED,1800.0,180.0,Confirmed match with PDF line coordinates
+45,Joy Pops (5 Pcs),novelties,3,VERIFIED,1000.0,100.0,Confirmed match with PDF line coordinates
+46,Emerald (10 Pcs),novelties,3,VERIFIED,380.0,38.0,Confirmed match with PDF line coordinates
+47,Asrafi Pops (5 Pcs),novelties,3,VERIFIED,800.0,80.0,Confirmed match with PDF line coordinates
+48,DTS Sound,novelties,3,VERIFIED,1200.0,120.0,Confirmed match with PDF line coordinates
+49,100 Watts,novelties,3,VERIFIED,600.0,60.0,Confirmed match with PDF line coordinates
+50,Yahoo,novelties,3,VERIFIED,1300.0,130.0,Confirmed match with PDF line coordinates
+51,Lallipop,novelties,3,VERIFIED,1950.0,195.0,Confirmed match with PDF line coordinates
+52,28 Chorsa,novelties,3,NEEDS_VERIFICATION,,,Price blank in source PDF page 3
+53,Dora Super Singar (5 Pcs),novelties,3,VERIFIED,1300.0,130.0,Confirmed match with PDF line coordinates
+54,Tiny Toys (3 Pcs),novelties,3,VERIFIED,1300.0,130.0,Confirmed match with PDF line coordinates
+55,7 Shots (5 Pcs),novelties,3,VERIFIED,1000.0,100.0,Confirmed match with PDF line coordinates
+56,Akash Rider (5 Pcs),novelties,3,VERIFIED,1300.0,130.0,Confirmed match with PDF line coordinates
+57,Elephant Magic,novelties,3,VERIFIED,1800.0,180.0,Confirmed match with PDF line coordinates
+58,Bull 5 in 1 (5 Pcs),novelties,3,VERIFIED,2500.0,250.0,Confirmed match with PDF line coordinates
+59,Penta 5 in 1 (5 Pcs),novelties,3,VERIFIED,1900.0,190.0,Confirmed match with PDF line coordinates
+60,Tri Colour (5 Pcs),fancy-fountains,3,VERIFIED,2750.0,275.0,Confirmed match with PDF line coordinates
+61,Bingo (5 Pcs),fancy-fountains,3,VERIFIED,1300.0,130.0,Confirmed match with PDF line coordinates
+62,Kurkure (5 Pcs),fancy-fountains,3,VERIFIED,1300.0,130.0,Confirmed match with PDF line coordinates
+63,Peacock (Mayur),fancy-fountains,3,VERIFIED,1800.0,180.0,Confirmed match with PDF line coordinates
+64,Milka (5 Pcs),fancy-fountains,3,VERIFIED,1300.0,130.0,Confirmed match with PDF line coordinates
+65,Hanuman Danta,fancy-fountains,3,VERIFIED,1900.0,190.0,Confirmed match with PDF line coordinates
+66,Twril (5 Pcs),fancy-fountains,3,VERIFIED,1300.0,130.0,Confirmed match with PDF line coordinates
+67,MRF Bat,fancy-fountains,3,VERIFIED,1900.0,190.0,Confirmed match with PDF line coordinates
+68,Cylinder Gas,fancy-fountains,3,VERIFIED,2000.0,200.0,Confirmed match with PDF line coordinates
+69,Oppo,novelties,4,VERIFIED,2100.0,210.0,Confirmed match with PDF line coordinates
+70,Power Point,novelties,4,VERIFIED,2000.0,200.0,Confirmed match with PDF line coordinates
+71,Photo Flash (5 Pcs),novelties,4,VERIFIED,900.0,90.0,Confirmed match with PDF line coordinates
+72,Jigglers (2 Pcs),novelties,4,VERIFIED,1900.0,190.0,Confirmed match with PDF line coordinates
+73,Mayil,novelties,4,VERIFIED,1400.0,140.0,Confirmed match with PDF line coordinates
+74,Popcorn,novelties,4,VERIFIED,1800.0,180.0,Confirmed match with PDF line coordinates
+75,Funblast gun (2 Pcs),novelties,4,VERIFIED,2000.0,200.0,Confirmed match with PDF line coordinates
+76,King Fisher,novelties,4,VERIFIED,1800.0,180.0,Confirmed match with PDF line coordinates
+77,Pup G Gun (5 Pcs),novelties,4,VERIFIED,1350.0,135.0,Confirmed match with PDF line coordinates
+78,Bada Peacock,fancy-fountains,4,VERIFIED,4500.0,450.0,Confirmed match with PDF line coordinates
+79,Pepsi,tin-cool-drinks,4,VERIFIED,900.0,90.0,Confirmed match with PDF line coordinates
+80,Coco Cola,tin-cool-drinks,4,VERIFIED,900.0,90.0,Confirmed match with PDF line coordinates
+81,7 Up,tin-cool-drinks,4,VERIFIED,900.0,90.0,Confirmed match with PDF line coordinates
+82,Water Millon,tin-cool-drinks,4,VERIFIED,900.0,90.0,Confirmed match with PDF line coordinates
+83,Fanta,tin-cool-drinks,4,VERIFIED,900.0,90.0,Confirmed match with PDF line coordinates
+84,Siren (2 Pcs),fantastic-novelties,4,VERIFIED,1500.0,150.0,Confirmed match with PDF line coordinates
+85,Sunstar / Milky / Kids candle,fantastic-novelties,4,VERIFIED,2000.0,200.0,Confirmed match with PDF line coordinates
+86,Sun Smoke (2 Pcs),fantastic-novelties,4,VERIFIED,1800.0,180.0,Confirmed match with PDF line coordinates
+87,Helicopter (5 Pcs),fantastic-novelties,4,VERIFIED,1400.0,140.0,Confirmed match with PDF line coordinates
+88,Disco Wheel (10 Pcs),wheels,4,VERIFIED,1200.0,120.0,Confirmed match with PDF line coordinates
+89,Olai Vedi,fancy-crackers,4,VERIFIED,1750.0,175.0,Confirmed match with PDF line coordinates
+90,Rock Party / Money Shot,fancy-crackers,4,VERIFIED,600.0,60.0,Confirmed match with PDF line coordinates
+91,Chotta Fancy (1 1/2'' Single) - Golden Jupiter / Mercury / Venus / Comet Tail,aerial-fancy,4,VERIFIED,480.0,48.0,Confirmed match with PDF line coordinates
+92,Aerials of Trio 2'' (3 Pcs) - Almond / Pista / Peanut / Wall nut,aerial-fancy,4,VERIFIED,2500.0,250.0,Confirmed match with PDF line coordinates
+93,Aerial Fancy (2'' Single) - BMW / Royal Enfields / Honda / Suzuki,aerial-fancy,4,VERIFIED,950.0,95.0,Confirmed match with PDF line coordinates
+94,Aerial Fancy (3'' Single) - Audi / Mclearn / Jaguar / Ferrari,aerial-fancy,4,VERIFIED,2500.0,250.0,Confirmed match with PDF line coordinates
+95,Aerial Fancy (4'' Single) - 4'' Pipe Colours,aerial-fancy,4,VERIFIED,3000.0,300.0,Confirmed match with PDF line coordinates
+96,Aerial Fancy (4'' Single) - 4'' Pipe Nayagara,aerial-fancy,4,VERIFIED,3200.0,320.0,Confirmed match with PDF line coordinates
+97,Aerial Fancy (5'' Pipe) - 5'' Pipe (1 Pce),aerial-fancy,5,VERIFIED,4000.0,400.0,Confirmed match with PDF line coordinates
+98,Roll Cap,roll-cap,5,VERIFIED,600.0,60.0,Confirmed match with PDF line coordinates
+99,IPL 5 x 6 (30 Shots),fancy-repeating-shots,5,VERIFIED,12500.0,1250.0,Confirmed match with PDF line coordinates
+100,IPL 10 x 10 (100 Shots),fancy-repeating-shots,5,VERIFIED,40000.0,4000.0,Confirmed match with PDF line coordinates
+101,Repeating Shots Code 101,fancy-repeating-shots,5,NEEDS_VERIFICATION,,,Blank line printed at code 101 in PDF
+102,12 Blaze / Star War / Boom,fancy-repeating-shots,5,VERIFIED,1350.0,135.0,Confirmed match with PDF line coordinates
+103,25 Rider Cheeta,fancy-repeating-shots,5,VERIFIED,2500.0,250.0,Confirmed match with PDF line coordinates
+104,30 Multi Colour Shots,fancy-repeating-shots,5,VERIFIED,3800.0,380.0,Confirmed match with PDF line coordinates
+105,60 Multi Colour Shots,fancy-repeating-shots,5,VERIFIED,7500.0,750.0,Confirmed match with PDF line coordinates
+106,120 Multi Colour Shots,fancy-repeating-shots,5,VERIFIED,15000.0,1500.0,Confirmed match with PDF line coordinates
+107,240 Multi Colour Shots,fancy-repeating-shots,5,VERIFIED,30000.0,3000.0,Confirmed match with PDF line coordinates
+108,500 Multi Colour Shots,fancy-repeating-shots,5,VERIFIED,65000.0,6500.0,Confirmed match with PDF line coordinates
+109,Sun Wonder 2'' (25 Shots),fancy-repeating-shots,5,VERIFIED,25000.0,2500.0,Confirmed match with PDF line coordinates
+110,50 Bestie Rider,fancy-repeating-shots,5,VERIFIED,5000.0,500.0,Confirmed match with PDF line coordinates
+111,7cm Electric Sparklers,sparklers,5,VERIFIED,130.0,13.0,Confirmed match with PDF line coordinates
+112,7cm Colour Sparklers,sparklers,5,VERIFIED,130.0,13.0,Confirmed match with PDF line coordinates
+113,10cm Electric Sparklers,sparklers,5,VERIFIED,260.0,26.0,Confirmed match with PDF line coordinates
+114,10cm Colour Sparklers,sparklers,5,VERIFIED,260.0,26.0,Confirmed match with PDF line coordinates
+115,15cm Electric Sparklers,sparklers,5,VERIFIED,600.0,60.0,Confirmed match with PDF line coordinates
+116,15cm Colour Sparklers,sparklers,5,VERIFIED,600.0,60.0,Confirmed match with PDF line coordinates
+117,30cm Electric Sparklers,sparklers,5,VERIFIED,600.0,60.0,Confirmed match with PDF line coordinates
+118,30cm Colour Sparklers,sparklers,5,VERIFIED,600.0,60.0,Confirmed match with PDF line coordinates
+119,55cm Electric Sparklers,sparklers,5,VERIFIED,1850.0,185.0,Confirmed match with PDF line coordinates
+120,Sparkler Special Code 120,sparklers,5,NEEDS_VERIFICATION,,,Blank line printed at code 120 in PDF
+121,Dora Gift Box,gift-boxes,6,VERIFIED,25000.0,2500.0,Confirmed match with PDF line coordinates
+122,Black Berry Gift Box,gift-boxes,6,VERIFIED,30000.0,3000.0,Confirmed match with PDF line coordinates
+123,Dhoni Gift Box,gift-boxes,6,VERIFIED,40000.0,4000.0,Confirmed match with PDF line coordinates
+124,7 Hills Gift Box,gift-boxes,6,VERIFIED,50000.0,5000.0,Confirmed match with PDF line coordinates
+125,Eagle Gift Box,gift-boxes,6,VERIFIED,60000.0,6000.0,Confirmed match with PDF line coordinates
+126,Hulk Gift Box,gift-boxes,6,VERIFIED,75000.0,7500.0,Confirmed match with PDF line coordinates
+127,VIP Joker Gift Box,gift-boxes,6,VERIFIED,90000.0,9000.0,Confirmed match with PDF line coordinates
+128,VVIP Lucky 7 Horse Gift Box,gift-boxes,6,VERIFIED,130000.0,13000.0,Confirmed match with PDF line coordinates
+129,Mega VVIP Carnival (VIP Mega),gift-boxes,6,VERIFIED,250000.0,25000.0,Confirmed match with PDF line coordinates
+130,Silver Pack Family Pack (2026 Special),gift-boxes,6,VERIFIED,30000.0,3000.0,Confirmed match with PDF line coordinates
+131,Gold Pack Family Pack (2026 Special),gift-boxes,6,VERIFIED,50000.0,5000.0,Confirmed match with PDF line coordinates
