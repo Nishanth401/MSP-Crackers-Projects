@@ -11,10 +11,7 @@ This system transforms the official **MSP Retail List 2026.pdf** into an interac
 - **Business / Showroom:** MSP Pyro Park (Show Room)
 - **Associated Manufacturer:** Sun Star Fire Works
 - **Physical Location:** Near AAA College, Virudhunagar – Sivakasi Main Road, Amathur, Sivakasi, Tamil Nadu, India.
-- **Showroom Coordinators:**
-  - Sarojini: `+91 96989 92410` (WhatsApp / Calls)
-  - Kaliraja Prabhu: `+91 94438 68650` (WhatsApp / Calls)
-  - Showroom Hotline: `+91 94427 75179`
+- **Showroom Hotline & WhatsApp:** `+91 7339620387`
 - **Showroom Banking Reference:** Karur Vysya Bank, S.N.Puram Branch (IFSC: `KVBL0001810`)
   - Ganapathy Traders: `1810280000000336`
   - MSP Pyro Park: `1810283000000030`

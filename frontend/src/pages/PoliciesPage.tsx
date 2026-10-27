@@ -142,7 +142,7 @@ export const PoliciesPage: React.FC<PoliciesPageProps> = ({ navigate }) => {
               </p>
               <h3 className="font-bold text-white text-base pt-2">Order Cancellations</h3>
               <p>
-                Order reservations can be freely cancelled or modified prior to showroom dispatch by contacting our coordinators on WhatsApp at +91 96989 92410.
+                Order reservations can be freely cancelled or modified prior to showroom dispatch by contacting our coordinators on WhatsApp at +91 7339620387.
               </p>
               <h3 className="font-bold text-white text-base pt-2">Damaged or Mismatched Items</h3>
               <p>

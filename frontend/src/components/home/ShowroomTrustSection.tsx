@@ -58,7 +58,7 @@ export const ShowroomTrustSection: React.FC = () => {
             </div>
             <h3 className="font-bold text-base text-white">Direct WhatsApp Desk</h3>
             <p className="text-xs text-slate-400 leading-relaxed">
-              Direct assistance with showroom coordinators Sarojini (+91 96989 92410) and Kaliraja Prabhu (+91 94438 68650) for immediate order confirmations.
+              Direct assistance via showroom hotline and WhatsApp at +91 7339620387 for immediate order confirmations and inquiries.
             </p>
           </div>
 

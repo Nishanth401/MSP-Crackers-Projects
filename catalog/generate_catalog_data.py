@@ -265,8 +265,8 @@ catalog_data = {
         "businessName": "MSP Pyro Park",
         "associatedBrand": "Sun Star Fire Works",
         "showroomAddress": "Near AAA College, Virudhunagar - Sivakasi Main Road, Amathur, Sivakasi, Tamil Nadu, India",
-        "contactNumbers": ["9698992410", "9443868650", "9442775179"],
-        "whatsappNumbers": ["9698992410", "9443868650"],
+        "contactNumbers": ["7339620387"],
+        "whatsappNumbers": ["7339620387"],
         "bankAccounts": [
             {
                 "entity": "Ganapathy Traders",

@@ -42,7 +42,7 @@ const FAQS: FaqItem[] = [
   },
   {
     question: "Who can I contact for bulk orders or showroom guidance?",
-    answer: "You can reach our coordinators Sarojini at +91 96989 92410 or Kaliraja Prabhu at +91 94438 68650, or call our showroom hotline at +91 94427 75179."
+    answer: "You can reach our showroom helpdesk and coordinators directly via call or WhatsApp at +91 7339620387."
   }
 ];
 

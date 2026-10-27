@@ -305,8 +305,8 @@ export const AdminPage: React.FC<AdminPageProps> = ({
                   Near AAA College, Sivakasi–Virudhunagar Main Road, Amathur
                 </div>
                 <div>
-                  <strong className="text-white block">Coordinators:</strong>
-                  Sarojini (96989 92410) • Kaliraja Prabhu (94438 68650)
+                  <strong className="text-white block">Hotline & WhatsApp:</strong>
+                  +91 7339620387
                 </div>
                 <div>
                   <strong className="text-white block">Bank Accounts:</strong>

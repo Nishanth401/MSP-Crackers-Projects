@@ -8,7 +8,7 @@ export const WhatsAppFloatingButton: React.FC = () => {
   const [customMsg, setCustomMsg] = useState('');
   const { items, subtotal } = useCart();
 
-  const primaryPhone = METADATA.whatsappNumbers[0] || '9698992410';
+  const primaryPhone = METADATA.whatsappNumbers[0] || '7339620387';
 
   const sendWhatsApp = (msg: string) => {
     const encoded = encodeURIComponent(msg);

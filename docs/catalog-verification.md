@@ -63,10 +63,8 @@ The following 9 items were identified as having blank prices or incomplete line 
 
 ## 4. Banking & Contact Verification Status
 
-### Contact Numbers (Page 1 & Page 6):
-- `96989 92410` (Sarojini — WhatsApp & Calling)
-- `94438 68650` (Kaliraja Prabhu — WhatsApp & Calling)
-- `94427 75179` (Showroom Hotline)
+### Contact Numbers:
+- `7339620387` (Primary Showroom Hotline & WhatsApp)
 
 ### Bank Transfer Information (Page 6):
 - **Bank:** Karur Vysya Bank, S.N.Puram Branch

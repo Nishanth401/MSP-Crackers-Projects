@@ -76,7 +76,7 @@ export const AboutPage: React.FC<AboutPageProps> = ({ navigate }) => {
             </div>
             <div className="flex items-center gap-2.5 text-xs text-slate-300">
               <Phone className="w-4 h-4 text-amber-400 flex-shrink-0" />
-              <span>Hotlines: 96989 92410, 94438 68650, 94427 75179</span>
+              <span>Showroom Hotline & WhatsApp: +91 7339620387</span>
             </div>
           </div>
 

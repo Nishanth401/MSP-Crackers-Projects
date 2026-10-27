@@ -22,7 +22,7 @@ The objective of this web platform is to transform the physical **MSP Retail Lis
   - Customer submits contact details, delivery preference (Showroom Pickup at Amathur or Authorized Transport booking), and safety acknowledgment.
   - Server recalculates prices to prevent client-side price tampering.
   - Generates a verified Order Reference (e.g. `MSP-2026-XXXX`).
-  - Provides a direct 1-click **WhatsApp Order Dispatcher** pre-filled with the exact items and order reference to the verified showroom coordinators (`96989 92410`, `94438 68650`).
+  - Provides a direct 1-click **WhatsApp Order Dispatcher** pre-filled with the exact items and order reference to the verified showroom desk (`7339620387`).
 
 ### 2.3 Legal & Fireworks Safety Compliance
 - **Statutory Age Check:** Minimum 18 years legal affirmation prior to order request.

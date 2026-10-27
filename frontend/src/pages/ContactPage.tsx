@@ -82,35 +82,26 @@ export const ContactPage: React.FC<ContactPageProps> = ({ navigate }) => {
             <div className="p-6 sm:p-8 rounded-3xl glass-panel bg-slate-900 border border-slate-800 space-y-4">
               <h2 className="font-display text-xl font-black text-white flex items-center gap-2">
                 <Phone className="w-5 h-5 text-amber-400" />
-                <span>Verified Contact Numbers</span>
+                <span>Verified Contact Details</span>
               </h2>
 
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
-                
+              <div>
                 <a
-                  href={`tel:${METADATA.contactNumbers[0]}`}
-                  className="p-3.5 rounded-2xl bg-slate-950 border border-slate-800 hover:border-amber-400/40 transition-colors block"
+                  href={`tel:7339620387`}
+                  className="p-5 rounded-2xl bg-slate-950 border border-amber-400/40 hover:border-amber-400 transition-colors flex items-center justify-between group"
                 >
-                  <div className="font-bold text-white text-sm">+91 {METADATA.contactNumbers[0]}</div>
-                  <div className="text-[11px] text-amber-300 font-semibold mt-0.5">Sarojini (WhatsApp / Calls)</div>
+                  <div>
+                    <div className="font-display font-black text-white text-2xl tracking-wide group-hover:text-amber-300 transition-colors">
+                      +91 7339620387
+                    </div>
+                    <div className="text-xs text-amber-300 font-semibold mt-1">
+                      Official Showroom Hotline & WhatsApp
+                    </div>
+                  </div>
+                  <div className="p-3 rounded-xl bg-emerald-500/20 text-emerald-400">
+                    <MessageCircle className="w-6 h-6" />
+                  </div>
                 </a>
-
-                <a
-                  href={`tel:${METADATA.contactNumbers[1]}`}
-                  className="p-3.5 rounded-2xl bg-slate-950 border border-slate-800 hover:border-amber-400/40 transition-colors block"
-                >
-                  <div className="font-bold text-white text-sm">+91 {METADATA.contactNumbers[1]}</div>
-                  <div className="text-[11px] text-amber-300 font-semibold mt-0.5">Kaliraja Prabhu (WhatsApp / Calls)</div>
-                </a>
-
-                <a
-                  href={`tel:${METADATA.contactNumbers[2]}`}
-                  className="sm:col-span-2 p-3.5 rounded-2xl bg-slate-950 border border-slate-800 hover:border-amber-400/40 transition-colors block"
-                >
-                  <div className="font-bold text-white text-sm">+91 {METADATA.contactNumbers[2]}</div>
-                  <div className="text-[11px] text-slate-400 mt-0.5">Showroom Primary Hotline</div>
-                </a>
-
               </div>
             </div>
 
@@ -198,7 +189,7 @@ export const ContactPage: React.FC<ContactPageProps> = ({ navigate }) => {
 
             <div className="pt-2 text-[11px] text-slate-400 flex items-center gap-2">
               <MessageCircle className="w-4 h-4 text-emerald-400 flex-shrink-0" />
-              <span>Inquiries are forwarded directly to verified coordinators Sarojini & Kaliraja Prabhu.</span>
+              <span>Inquiries are forwarded directly to our showroom WhatsApp desk at +91 7339620387.</span>
             </div>
           </div>
 
